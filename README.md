@@ -51,8 +51,12 @@
 
 ## 🤝 Connect with me
 <p align="left">
-<a href="jenam-kumar-bbb1ba275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jenam" height="30" width="40" /></a>
-<a href="x.com/K_Jenam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jenam" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jenam-kumar-bbb1ba275" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jenam LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/K_Jenam" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jenam Twitter" height="30" width="40" />
+  </a>
 </p>
 
 ---
