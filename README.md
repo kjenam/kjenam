@@ -1,19 +1,21 @@
-# Hi there, I'm Jenam 👋 
+# Hi there, I'm Jenam 👋  
 ### Full Stack Developer / Software Engineering Student / AI Enthusiast
 
+> Building scalable systems at the intersection of Full-Stack, AI, and System Design.
+
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=kjenam&label=Profile%20views&color=0e75b6&style=flat" alt="Jenam" />
+  <img src="https://komarev.com/ghpvc/?username=kjenam&label=Profile%20views&color=0e75b6&style=flat" alt="Jenam" />
 </p>
 
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working on **Agentic Ai Builder**
-- 🌱 I’m currently learning **System Design**
-- 👯 I’m looking to collaborate on **RAG Projects**
-- 💬 Ask me about **all the cool stuff**
-- 📫 How to reach me: **kumarjenam31@gmail.com**
-- ⚡ Fun fact: **I spend my mornings studying the efficiency of Steam Boilers and my nights optimizing RAG pipelines.**
+- 🔭 Currently working on **Agentic AI Builder**
+- 🌱 Learning **System Design**
+- 👯 Open to collaborating on **RAG Projects**
+- 💬 Ask me about **Full-Stack, DSA, AI**
+- 📫 Reach me at **kumarjenam31@gmail.com**
+- ⚡ Fun fact: *Mornings with steam boilers, nights with RAG pipelines.*
 
 ---
 
@@ -34,33 +36,38 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kjenam&theme=tokyonight&hide_border=true" />
-</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kjenam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjenam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Carrer Compass** | A platform for tracking all your job applications and resume guidance. | `React`, `Node.js` |
-| **myFolio** | My personal portfolio website. | `React`, `Node.js` |
+|-------|-------------|-----------|
+| **Career Compass** | Platform to track job applications and get resume guidance | React, Node.js |
+| **myFolio** | Personal portfolio website | React, Node.js |
 
 ---
 
 ## 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/jenam-kumar-bbb1ba275" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jenam LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://x.com/K_Jenam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jenam Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
+
 <p align="center">
-  <i>“From the outside, you seem mature with a philosopher's mind. But inside, you're just a child lost in a sweet delusion.”
-―      </br>Fyodor Dostoevsky</i>
+  <i>
+    “From the outside, you seem mature with a philosopher's mind.  
+    But inside, you're just a child lost in a sweet delusion.”  
+    <br/>— Fyodor Dostoevsky
+  </i>
 </p>
